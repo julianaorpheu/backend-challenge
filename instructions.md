@@ -8,7 +8,8 @@ Handler → responsável por processar as mensagens.
 Usando a interface IMediator as classes não irão saber quem/quais componentes irão realizar determinada ação. Apenas enviamos para o Mediator e ele irá se encarregar de chamar a classe que irá executar o que precisamos.
 É possível ainda implementar o CancellationToken, que faz parte da biblioteca do Mediator para cancelar uma ação (aqui não implementado).
 
-----------------------------Camadas do projeto-------------------------------
+-----------------------Camadas do projeto-------------------------
+
 BackEnd.API - Camada de API
 Nessa camada temos as Controllers do projeto
 
@@ -27,5 +28,7 @@ dotnet test (dentro da pasta test/unit/backend.unittest)
 
 # Build and Test
 Endpoints:
+
 http://localhost:5001/api/pedido
+
 http://localhost:5001/api/status
