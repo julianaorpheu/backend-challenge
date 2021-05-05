@@ -1,0 +1,69 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BackEnd API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildapi-BackEnd",
+            "program": "${workspaceFolder}/src/BackEnd.Api/bin/Debug/netcoreapp3.1/BackEnd.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/BackEnd.Api",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart",
+            "launchBrowser": {
+                "enabled": false,
+                "args": "${auto-detect-url}",
+                "windows": {
+                    "command": "cmd.exe",
+                    "args": "/C start ${auto-detect-url}"
+                },
+                "osx": {
+                    "command": "open"
+                },
+                "linux": {
+                    "command": "xdg-open"
+                }
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5001"
+            }
+        },
+        {
+            "name": "CypherTest API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildapi-cyphertest",
+            "program": "${workspaceFolder}/src/CypherTest/bin/Debug/netcoreapp3.1/CypherTest.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/CypherTest",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart",
+            "launchBrowser": {
+                "enabled": false,
+                "args": "${auto-detect-url}",
+                "windows": {
+                    "command": "cmd.exe",
+                    "args": "/C start ${auto-detect-url}"
+                },
+                "osx": {
+                    "command": "open"
+                },
+                "linux": {
+                    "command": "xdg-open"
+                }
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5005",
+            }
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+}

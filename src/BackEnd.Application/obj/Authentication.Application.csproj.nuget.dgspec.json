@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Application\\Authentication.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Application\\Authentication.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Application\\Authentication.Application.csproj",
+        "projectName": "Authentication.Application",
+        "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Application\\Authentication.Application.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj"
+              },
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              },
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+        "projectName": "Authentication.CrossCutting",
+        "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\Authentication.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              },
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj"
+              },
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\AuthenticationMiddleware.Library.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\AuthenticationMiddleware.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DataAccess.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210213-141535, )"
+            },
+            "EventHandler.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210211-211006, )"
+            },
+            "LogManager.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210211-195611, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.19.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "projectName": "Authentication.Domain",
+        "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+        "projectName": "Authentication.Infrastructure",
+        "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj": {
+                "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\Authentication.Domain\\Authentication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ErrorHandling.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210211-204848, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.19.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\AuthenticationMiddleware.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\AuthenticationMiddleware.Library.csproj",
+        "projectName": "AuthenticationMiddleware.Library",
+        "projectPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\AuthenticationMiddleware.Library.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliana.russo.orpheu\\Projetos\\atp-back-authentication\\src\\AuthenticationMiddleware.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DataAccess.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210213-141535, )"
+            },
+            "EventHandler.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210211-211006, )"
+            },
+            "LogManager.Library": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20210211-195611, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IO.RecyclableMemoryStream": {
+              "target": "Package",
+              "version": "[1.3.4, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

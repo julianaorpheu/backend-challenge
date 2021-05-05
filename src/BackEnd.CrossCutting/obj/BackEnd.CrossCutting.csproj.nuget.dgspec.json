@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj",
+        "projectName": "BackEnd.CrossCutting",
+        "projectPath": "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
+                "projectPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.19.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "projectName": "BackEnd.Infrastructure",
+        "projectPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
+        "outputPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dev-ch-sv09.bjss.dev/DefaultCollection/_packaging/AtpDev@Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.19.0-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

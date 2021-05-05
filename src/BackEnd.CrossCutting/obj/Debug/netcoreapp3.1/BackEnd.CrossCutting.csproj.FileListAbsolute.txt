@@ -1,0 +1,12 @@
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.deps.json
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csprojAssemblyReference.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.AssemblyInfo.cs
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csproj.CopyComplete
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb

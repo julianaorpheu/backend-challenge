@@ -1,0 +1,14 @@
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.Application.deps.json
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.Application.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.Application.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.csprojAssemblyReference.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.AssemblyInfoInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.AssemblyInfo.cs
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.csproj.CoreCompileInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.csproj.CopyComplete
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Application\obj\Debug\netcoreapp3.1\BackEnd.Application.pdb

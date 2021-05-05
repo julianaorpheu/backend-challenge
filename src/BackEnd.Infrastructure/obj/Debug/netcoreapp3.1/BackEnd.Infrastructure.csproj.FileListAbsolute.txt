@@ -1,0 +1,12 @@
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.deps.json
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.runtimeconfig.json
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.runtimeconfig.dev.json
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.csprojAssemblyReference.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.AssemblyInfo.cs
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.genruntimeconfig.cache
