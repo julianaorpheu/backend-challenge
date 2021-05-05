@@ -11,15 +11,19 @@ Usando a interface IMediator as classes não irão saber quem/quais componentes 
 -----------------------Camadas do projeto-------------------------
 
 BackEnd.API - Camada de API
+
 Nessa camada temos as Controllers do projeto
 
 BackEnd.Application - Camada de aplicação
+
 Nessa camada temos os arquivos de CQRS - Request/Response/Command
 
 BackEnd.CrossCutting - Camada comum por toda aplicação
+
 Nessa camada temos arquivos de Injeção de Dependência para os services.
 
 BackEnd.Infrastructure - Camada de infraestrutura
+
 Nessa camada temos arquivos de acesso a dados (Entity Framework in memory)
 
 BackEnd.UnitTest - Camada de testes
