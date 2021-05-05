@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xgRv+uhqMjzim1CiYuWuPES6KDFnrbLvID+oIfB9ElXzCYPrxhIlJK8wMviZIO/Z6cY5hKL2lzq57lUmrVMv4w==",
+  "dgSpecHash": "a4VT2oDzP6izuFMDY0PdxC39N2Y6spDdzZk3gO3I/QZHcT361cOSV7YcZgDMM0M9Qw4bTJgEuXhNbd27Y3faSA==",
   "success": true,
-  "projectFilePath": "c:\\backend-challenge\\test\\unit\\BackEnd.UnitTest\\BackEnd.UnitTest.csproj",
+  "projectFilePath": "C:\\backend-challenge\\test\\unit\\backend.unittest\\BackEnd.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\ardalis.guardclauses\\1.5.0\\ardalis.guardclauses.1.5.0.nupkg.sha512",
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",

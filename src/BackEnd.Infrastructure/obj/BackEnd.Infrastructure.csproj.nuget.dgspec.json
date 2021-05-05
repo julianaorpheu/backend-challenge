@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {}
+    "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
+    "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
         "projectName": "BackEnd.Infrastructure",
-        "projectPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
+        "projectPath": "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
-        "outputPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\obj\\",
+        "outputPath": "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"

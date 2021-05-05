@@ -22,7 +22,8 @@ BackEnd.Infrastructure - Camada de infraestrutura
 Nessa camada temos arquivos de acesso a dados (Entity Framework in memory)
 
 BackEnd.UnitTest - Camada de testes
-
+Para executar os testes unitários executar o comando:
+dotnet test (dentro da pasta test/unit/backend.unittest)
 
 # Build and Test
 Endpoints:

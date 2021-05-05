@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFvwSl0/RV4Sqj8NPgfibS6C9sh+vBB5mEJYNCwVrMteeKA32lTAP1m9/7jjj0n/mRWO0kxewyejEtt7d7krWA==",
+  "dgSpecHash": "O7j14IgpKG/KrAN/NKDrwuIlG7Gfe34hbx494RU3iAzc9lx3BXbA9X76Ned9AVn4wexhiEA5FGfOTAMn+hKRwg==",
   "success": true,
-  "projectFilePath": "c:\\backend-challenge\\src\\BackEnd.Api\\BackEnd.Api.csproj",
+  "projectFilePath": "C:\\backend-challenge\\src\\BackEnd.Api\\BackEnd.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\ardalis.guardclauses\\1.5.0\\ardalis.guardclauses.1.5.0.nupkg.sha512",
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",

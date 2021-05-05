@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FTCOdo7MO4tZpqvx3C0z8vDYWeho47FXN6O1qiWDpZ1SnqVwfoyPP5mg6dpuHQmqOximH7MMdyH7f1rslkPCOA==",
+  "dgSpecHash": "hH65K6xvEPNvf2IMTjops99SIqM6EzvZUU+wCdfjpUaq0CUdThmyr3i5qqM3xf7ij3jA4Z+zJYw5xlFj+12DSQ==",
   "success": true,
-  "projectFilePath": "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj",
+  "projectFilePath": "C:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aentxrgddcwTTbmvg2CMNC0CDYQjnIQTirn5/40ocDh6CTmPgBeUE4U9el/f8hRBh76gHrvj65Xa3rShC2Ay/w==",
+  "dgSpecHash": "IfP6GAzMdp6ZYpOwDMfieGYD+2RWWYrUcBHNt4VKI7PYggWxFuR3UEg5b2vW+BzwsWd6mnoShoWBQsj3duwSbg==",
   "success": true,
-  "projectFilePath": "c:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
+  "projectFilePath": "C:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

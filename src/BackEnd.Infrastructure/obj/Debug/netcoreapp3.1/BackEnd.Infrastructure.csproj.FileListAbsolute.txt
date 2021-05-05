@@ -10,3 +10,15 @@ C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Deb
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.genruntimeconfig.cache
+C:\backend-challenge\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.deps.json
+C:\backend-challenge\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.runtimeconfig.json
+C:\backend-challenge\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.runtimeconfig.dev.json
+C:\backend-challenge\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\backend-challenge\src\BackEnd.Infrastructure\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.csprojAssemblyReference.cache
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.AssemblyInfoInputs.cache
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.AssemblyInfo.cs
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\backend-challenge\src\BackEnd.Infrastructure\obj\Debug\netcoreapp3.1\BackEnd.Infrastructure.genruntimeconfig.cache

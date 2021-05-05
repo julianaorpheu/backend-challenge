@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "clean",
-                "${workspaceFolder}/src/CypherTest/CypherTest.csproj"
+                "${workspaceFolder}/test/unit/BackEnd.UnitTest.csproj"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -27,7 +27,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/CypherTest/CypherTest.csproj"
+                "${workspaceFolder}/test/unit/BackEnd.UnitTest.csproj"
             ],
             "problemMatcher": "$msCompile",
             "dependsOn":["cleanapi-cyphertest"]
@@ -43,32 +43,6 @@
             ],
             "problemMatcher": "$msCompile",
             "dependsOn":["cleanapi-BackEnd"]
-        },
-        
-        {
-            "label": "publish",
-            "command": "dotnet",
-            "type": "process",
-            "args": [
-                "publish",
-                "${workspaceFolder}/test/unit/Cypher.UnitTest/Cypher.UnitTest.csproj",
-                "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
-            ],
-            "problemMatcher": "$msCompile"
-        },
-        {
-            "label": "watch",
-            "command": "dotnet",
-            "type": "process",
-            "args": [
-                "watch",
-                "run",
-                "${workspaceFolder}/test/unit/Cypher.UnitTest/Cypher.UnitTest.csproj",
-                "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
-            ],
-            "problemMatcher": "$msCompile"
         },
         {
             "label": "test",

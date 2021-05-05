@@ -1240,11 +1240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
+      "projectUniqueName": "C:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
       "projectName": "BackEnd.Application",
-      "projectPath": "c:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
+      "projectPath": "C:\\backend-challenge\\src\\BackEnd.Application\\BackEnd.Application.csproj",
       "packagesPath": "C:\\Users\\juliana.russo.orpheu\\.nuget\\packages\\",
-      "outputPath": "c:\\backend-challenge\\src\\BackEnd.Application\\obj\\",
+      "outputPath": "C:\\backend-challenge\\src\\BackEnd.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juliana.russo.orpheu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1259,11 +1259,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj": {
-              "projectPath": "c:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj"
+            "C:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj": {
+              "projectPath": "C:\\backend-challenge\\src\\BackEnd.CrossCutting\\BackEnd.CrossCutting.csproj"
             },
-            "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
-              "projectPath": "c:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj"
+            "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj": {
+              "projectPath": "C:\\backend-challenge\\src\\BackEnd.Infrastructure\\BackEnd.Infrastructure.csproj"
             }
           }
         }

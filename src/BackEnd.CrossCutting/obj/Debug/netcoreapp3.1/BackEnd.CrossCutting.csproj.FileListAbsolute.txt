@@ -10,3 +10,15 @@ C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csproj.CopyComplete
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
 C:\Users\juliana.russo.orpheu\Desktop\backend\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb
+C:\backend-challenge\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.deps.json
+C:\backend-challenge\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
+C:\backend-challenge\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb
+C:\backend-challenge\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.dll
+C:\backend-challenge\src\BackEnd.CrossCutting\bin\Debug\netcoreapp3.1\BackEnd.Infrastructure.pdb
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csprojAssemblyReference.cache
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.AssemblyInfoInputs.cache
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.AssemblyInfo.cs
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csproj.CoreCompileInputs.cache
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.csproj.CopyComplete
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.dll
+C:\backend-challenge\src\BackEnd.CrossCutting\obj\Debug\netcoreapp3.1\BackEnd.CrossCutting.pdb

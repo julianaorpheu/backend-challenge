@@ -53,12 +53,12 @@ namespace BackEnd.UnitTest
         }
 
         [Fact]
-        public void Status_InputStatus_ReturnStatusReprovado()
+        public void Status_InputStatus_ReturnPedidoInvalido()
         {
             CancellationToken cancellationToken = new CancellationToken();
 
             StatusPedidoRequest statusItem = new StatusPedidoRequest();
-            statusItem.pedido="123456";
+            statusItem.pedido="1234425677777";
             statusItem.valorAprovado = 0;
             statusItem.itensAprovados = 0;
             statusItem.status = "REPROVADO";
@@ -66,7 +66,7 @@ namespace BackEnd.UnitTest
             StatusPedidoCommand status = new StatusPedidoCommand();
             var response = status.Handle(statusItem, cancellationToken);
 
-            Assert.Equal("REPROVADO", response.Result.status); 
+            Assert.Equal("CODIGO_PEDIDO_INVALIDO", response.Result.status); 
         }
     }
 }
